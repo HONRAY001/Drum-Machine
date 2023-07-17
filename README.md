@@ -22,6 +22,3 @@ User Story #7: When a .drum-pad is triggered, a string describing the associated
 
 You can build your project by forking this CodePen pen. Or you can use this CDN link to run the tests in any environment you like: https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js
 Once you're done, submit the URL to your working project with all its tests passing.
-
-
-Solution Link(Live Site):	  https://freecodecamp-solutions.github.io/Build-a-Drum-Machine/
